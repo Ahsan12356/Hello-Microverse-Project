@@ -2,7 +2,7 @@
 
 # Hello Microverse
 
-> Hello Microverse project
+> Hello Microverse project using html & css
 
 ## Built With
 
@@ -14,8 +14,7 @@
 
 👤 **Author1**
 
-- GitHub: [@MrBrN197](https://github.com/MrBrN197)
-- Twitter: [@MrBrN197](https://twitter.com/MrBrN197)
+- GitHub: [@MrBrN197](https://github.com/Ahsan12356)
 
 
 
