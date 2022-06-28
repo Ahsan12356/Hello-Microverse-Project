@@ -5,7 +5,8 @@
 > Hello Microverse project using html & css
 
 ## Built With
-
+- html
+- css
 - Webhint
 - Styleint
 - Technologies used
@@ -14,7 +15,7 @@
 
 👤 **Author1**
 
-- GitHub: [@MrBrN197](https://github.com/Ahsan12356)
+- GitHub: [@Ahsan](https://github.com/Ahsan12356)
 
 
 
